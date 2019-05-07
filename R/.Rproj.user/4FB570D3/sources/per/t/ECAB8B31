@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557173028761.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "339488034",
+    "id" : "ECAB8B31",
+    "lastKnownWriteTime" : 1557173058,
+    "last_content_update" : 1557173058475,
+    "path" : "~/Dropbox/Documentos/Consultoria/20190606 TechNights/R/init.R",
+    "project_path" : "init.R",
+    "properties" : {
+        "cursorPosition" : "11,13",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
